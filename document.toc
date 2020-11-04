@@ -1,0 +1,4 @@
+\babel@toc {polish}{}
+\beamer@sectionintoc {1}{Pocz\IeC {\k a}tki internetu}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Komunikacja mi\IeC {\k e}dzy komputerami}{3}{0}{1}
+\beamer@sectionintoc {2}{Bibliografia}{4}{0}{2}

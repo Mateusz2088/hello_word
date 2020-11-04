@@ -1,0 +1,37 @@
+% test dokumentu
+\documentclass{beamer}
+\usepackage{tikz}
+\usepackage{hyperref}
+\usepackage{multimedia}
+\usepackage[polish]{babel}% Język
+\let\babellll\lll
+\let\lll\relax% Naprawia błąd \lll
+\usepackage{polski}% Język
+\usepackage[utf8]{inputenc}% Kodowanie
+\usetheme{PaloAlto}
+\usecolortheme{crane}
+\title{Historia internetu}
+\subtitle{od A do Z}
+\author[Mateusz Szewczak]{Mateusz Szewczak
+	\texttt{Politechnika Koszalińska, kierunek Informatyka, grupa I10}}
+\date[PLâ€™20]{06.11.2020}
+\begin{document}
+	\bibliographystyle{unsrt}
+	\begin{frame}
+		\maketitle
+	\end{frame}
+	\begin{frame}{Spis treści}
+		\tableofcontents
+	\end{frame}
+	\begin{frame}{Jak to się zaczęło?}
+		\section{Początki internetu}
+		\subsection{Komunikacja między komputerami}
+		Na początku lat 60 ubiegłego wieku, po zaprezentowaniu kilku pierwszych komputerów, powstał pomysł, aby stworzyć połączenia między komputerami. Idee opisał i zrealizował Paul Baran z firmy Rand Corporation
+		\nocite{hist:int:wiki}
+		
+	\end{frame}
+	\begin{frame}{Bibliografia}
+	\section{Bibliografia}
+	\bibliography{bibliografia.bib}
+	\end{frame}
+\end{document}
