@@ -6,6 +6,10 @@
 \bibitem{hist:int:wiki}
 \url{https://pl.wikipedia.org/wiki/Historia_Internetu}.
 
+\bibitem{ojciec:internetu}
+Wojciech Orliński.
+\newblock {\em Człowiek, który wynalazł internet}.
+
 \bibitem{TCPIP}
 \url{https://netbe.pl/blog/wp-content/uploads/2015/11/TCPIPDOC.png}.
 
@@ -16,6 +20,6 @@
 \url{ftp://ftp.iis.p.lodz.pl/pub/people/Z.Rowinska/Informatyka%20WIPO%A6/WIPOS_sieci.pdf}.
 
 \bibitem{art:rekord_internetu}
-
+\url{https://itbiznes.pl/technologie/nowy-rekord-predkosci-internetu/}.
 
 \end{thebibliography}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.30)  9 NOV 2020 22:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.30)  9 NOV 2020 22:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1483,15 +1483,42 @@ Overfull \hbox (255.45152pt too wide) in paragraph at lines 139--139
 
 [15
 
- <./od-1G-do-5G.jpg>] [16
+ <./od-1G-do-5G.jpg>]
+<defining-zigbeee.png, id=633, 433.62pt x 289.08pt>
+File: defining-zigbeee.png Graphic file (type png)
+<use defining-zigbeee.png>
+Package pdftex.def Info: defining-zigbeee.png  used on input line 146.
+(pdftex.def)             Requested size: 170.71652pt x 113.8126pt.
+ [16
 
-] (./document.bbl
-Overfull \hbox (199.87608pt too wide) in paragraph at lines 12--14
+ <./defining-zigbeee.png>]
+<iot.jpg, id=670, 863.225pt x 521.95pt>
+File: iot.jpg Graphic file (type jpg)
+<use iot.jpg>
+Package pdftex.def Info: iot.jpg  used on input line 152.
+(pdftex.def)             Requested size: 170.71652pt x 103.21739pt.
+ [17
+
+ <./iot.jpg>]
+<skynet.jpg, id=707, 1324.95pt x 744.7825pt>
+File: skynet.jpg Graphic file (type jpg)
+<use skynet.jpg>
+Package pdftex.def Info: skynet.jpg  used on input line 159.
+(pdftex.def)             Requested size: 170.71652pt x 95.96143pt.
+
+[18
+
+ <./skynet.jpg>] (./document.bbl
+Overfull \hbox (199.87608pt too wide) in paragraph at lines 16--18
 \OT4/cmtt/m/n/10.95 wielkie-[]lo-[]i-[]zasada-[]goracego-[]ziemniaka-[]jak-[]ba
 ran-[]przewidzial-[]nasza-[]rzeczywistosc ,[] 
  []
 
-) [17
+)
+Overfull \vbox (12.77115pt too high) detected at line 163
+ []
+
+[19
 
  </usr/share/texlive/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>]
 \tf@nav=\write6
@@ -1503,20 +1530,20 @@ ran-[]przewidzial-[]nasza-[]rzeczywistosc ,[]
 \tf@snm=\write8
 \openout8 = `document.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 152.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 152.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 164.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 164.
 
 (./document.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 152.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 152.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 164.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 164.
 Package rerunfilecheck Info: File `document.out' has not changed.
 (rerunfilecheck)             Checksum: 30D2E35495DFB5FCBF4CC68DB1423441;524.
  ) 
 Here is how much of TeX's memory you used:
- 21430 strings out of 492982
- 414617 string characters out of 6134895
- 494128 words of memory out of 5000000
- 24421 multiletter control sequences out of 15000+600000
+ 21465 strings out of 492982
+ 415358 string characters out of 6134895
+ 495162 words of memory out of 5000000
+ 24448 multiletter control sequences out of 15000+600000
  14187 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,16n,64p,804b,637s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1528,10 +1555,10 @@ plss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/pl/plss8.pfb></usr
 exmf-dist/fonts/type1/public/pl/plssbx10.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/public/pl/plssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
 c/pl/pltt10.pfb>
-Output written on document.pdf (17 pages, 1627037 bytes).
+Output written on document.pdf (19 pages, 2213762 bytes).
 PDF statistics:
- 762 PDF objects out of 1000 (max. 8388607)
- 701 compressed objects within 8 object streams
- 50 named destinations out of 1000 (max. 500000)
- 199 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 841 PDF objects out of 1000 (max. 8388607)
+ 774 compressed objects within 8 object streams
+ 55 named destinations out of 1000 (max. 500000)
+ 214 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -7,4 +7,4 @@
 \beamer@subsectionintoc {2}{1}{Zasada dzia\IeC {\l }ania}{12}{0}{2}
 \beamer@subsectionintoc {2}{2}{NOC}{13}{0}{2}
 \beamer@sectionintoc {3}{Przysz\IeC {\l }o\IeC {\'s}\IeC {\'c}}{14}{0}{3}
-\beamer@sectionintoc {4}{Bibliografia}{17}{0}{4}
+\beamer@sectionintoc {4}{Bibliografia}{19}{0}{4}
