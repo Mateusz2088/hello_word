@@ -2,4 +2,6 @@
 \beamer@sectionintoc {1}{Pocz\IeC {\k a}tki internetu}{3}{0}{1}
 \beamer@subsectionintoc {1}{1}{Jak to si\IeC {\k e} zacz\IeC {\k e}\IeC {\l }o?}{3}{0}{1}
 \beamer@subsectionintoc {1}{2}{Historia rozwoju}{7}{0}{1}
-\beamer@sectionintoc {2}{Bibliografia}{9}{0}{2}
+\beamer@subsectionintoc {1}{3}{Internet w Polsce}{10}{0}{1}
+\beamer@sectionintoc {2}{Internet dzisiaj}{11}{0}{2}
+\beamer@sectionintoc {3}{Bibliografia}{12}{0}{3}
