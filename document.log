@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.30)  9 NOV 2020 19:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.30)  9 NOV 2020 22:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1329,7 +1329,7 @@ File: ot4cmtt.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 ] (./document.toc) [2
 
 ]
-<gwiazda.jpg, id=144, 469.755pt x 300.12125pt>
+<gwiazda.jpg, id=153, 469.755pt x 300.12125pt>
 File: gwiazda.jpg Graphic file (type jpg)
 <use gwiazda.jpg>
 Package pdftex.def Info: gwiazda.jpg  used on input line 39.
@@ -1342,7 +1342,7 @@ Overfull \hbox (32.76471pt too wide) in paragraph at lines 39--39
 [3
 
  <./gwiazda.jpg>]
-<baran-zdjecie.jpg, id=182, 353.82187pt x 353.82187pt>
+<baran-zdjecie.jpg, id=191, 353.82187pt x 353.82187pt>
 File: baran-zdjecie.jpg Graphic file (type jpg)
 <use baran-zdjecie.jpg>
 Package pdftex.def Info: baran-zdjecie.jpg  used on input line 49.
@@ -1350,7 +1350,7 @@ Package pdftex.def Info: baran-zdjecie.jpg  used on input line 49.
  [4
 
  <./baran-zdjecie.jpg>]
-<TCPIPDOC.jpg, id=217, 301.125pt x 301.125pt>
+<TCPIPDOC.jpg, id=227, 301.125pt x 301.125pt>
 File: TCPIPDOC.jpg Graphic file (type jpg)
 <use TCPIPDOC.jpg>
 Package pdftex.def Info: TCPIPDOC.jpg  used on input line 58.
@@ -1360,7 +1360,7 @@ Package pdftex.def Info: TCPIPDOC.jpg  used on input line 58.
  <./TCPIPDOC.jpg>] [6
 
 ]
-<Larry_Roberts.jpg, id=293, 380.42125pt x 481.8pt>
+<Larry_Roberts.jpg, id=305, 380.42125pt x 481.8pt>
 File: Larry_Roberts.jpg Graphic file (type jpg)
 <use Larry_Roberts.jpg>
 Package pdftex.def Info: Larry_Roberts.jpg  used on input line 73.
@@ -1370,7 +1370,7 @@ LaTeX Font Info:    Font shape `OT4/cmss/m/it' in size <10.95> not available
  [7
 
  <./Larry_Roberts.jpg>]
-<cerf.jpg, id=330, 260.975pt x 391.4625pt>
+<cerf.jpg, id=343, 260.975pt x 391.4625pt>
 File: cerf.jpg Graphic file (type jpg)
 <use cerf.jpg>
 Package pdftex.def Info: cerf.jpg  used on input line 83.
@@ -1380,7 +1380,7 @@ Package pdftex.def Info: cerf.jpg  used on input line 83.
  <./cerf.jpg>] [9
 
 ]
-<NASK.png, id=399, 356.33125pt x 142.5325pt>
+<NASK.png, id=414, 356.33125pt x 142.5325pt>
 File: NASK.png Graphic file (type png)
 <use NASK.png>
 Package pdftex.def Info: NASK.png  used on input line 97.
@@ -1432,7 +1432,7 @@ thkerncmss.
 [11
 
 ]
-<internet_2.png, id=469, 3276.24pt x 2457.18pt>
+<internet_2.png, id=486, 3276.24pt x 2457.18pt>
 File: internet_2.png Graphic file (type png)
 <use internet_2.png>
 Package pdftex.def Info: internet_2.png  used on input line 114.
@@ -1445,7 +1445,7 @@ Overfull \hbox (25.9685pt too wide) in paragraph at lines 114--114
 [12
 
  <./internet_2.png>]
-<noc.jpg, id=503, 1003.75pt x 668.4975pt>
+<noc.jpg, id=521, 1003.75pt x 668.4975pt>
 File: noc.jpg Graphic file (type jpg)
 <use noc.jpg>
 Package pdftex.def Info: noc.jpg  used on input line 123.
@@ -1457,13 +1457,41 @@ Overfull \hbox (25.9685pt too wide) in paragraph at lines 123--123
 
 [13
 
- <./noc.jpg>] (./document.bbl
+ <./noc.jpg>]
+<swiatlowod.jpg, id=557, 513.92pt x 342.27875pt>
+File: swiatlowod.jpg Graphic file (type jpg)
+<use swiatlowod.jpg>
+Package pdftex.def Info: swiatlowod.jpg  used on input line 132.
+(pdftex.def)             Requested size: 142.26378pt x 94.75105pt.
+
+Overfull \hbox (25.9685pt too wide) in paragraph at lines 132--132
+[][] 
+ []
+
+[14
+
+ <./swiatlowod.jpg>]
+<od-1G-do-5G.jpg, id=596, 1242.14063pt x 790.45313pt>
+File: od-1G-do-5G.jpg Graphic file (type jpg)
+<use od-1G-do-5G.jpg>
+Package pdftex.def Info: od-1G-do-5G.jpg  used on input line 139.
+(pdftex.def)             Requested size: 284.52756pt x 181.06465pt.
+
+Overfull \hbox (255.45152pt too wide) in paragraph at lines 139--139
+[][] 
+ []
+
+[15
+
+ <./od-1G-do-5G.jpg>] [16
+
+] (./document.bbl
 Overfull \hbox (199.87608pt too wide) in paragraph at lines 12--14
 \OT4/cmtt/m/n/10.95 wielkie-[]lo-[]i-[]zasada-[]goracego-[]ziemniaka-[]jak-[]ba
 ran-[]przewidzial-[]nasza-[]rzeczywistosc ,[] 
  []
 
-) [14
+) [17
 
  </usr/share/texlive/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>]
 \tf@nav=\write6
@@ -1475,20 +1503,20 @@ ran-[]przewidzial-[]nasza-[]rzeczywistosc ,[]
 \tf@snm=\write8
 \openout8 = `document.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 129.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 129.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 152.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 152.
 
 (./document.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 129.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 129.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 152.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 152.
 Package rerunfilecheck Info: File `document.out' has not changed.
-(rerunfilecheck)             Checksum: F63FCBDAE1D2C3BEAFCB97BE1879B204;476.
+(rerunfilecheck)             Checksum: 30D2E35495DFB5FCBF4CC68DB1423441;524.
  ) 
 Here is how much of TeX's memory you used:
- 21400 strings out of 492982
- 414199 string characters out of 6134895
- 493090 words of memory out of 5000000
- 24401 multiletter control sequences out of 15000+600000
+ 21430 strings out of 492982
+ 414617 string characters out of 6134895
+ 494128 words of memory out of 5000000
+ 24421 multiletter control sequences out of 15000+600000
  14187 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,16n,64p,804b,637s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1496,13 +1524,14 @@ Here is how much of TeX's memory you used:
 e/texmf-dist/fonts/enc/dvips/pl/pltt.enc}</usr/share/texlive/texmf-dist/fonts/t
 ype1/public/pl/plss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/pl/
 plss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/pl/plss8.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/public/pl/plssbx10.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/public/pl/plssi10.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/public/pl/pltt10.pfb>
-Output written on document.pdf (14 pages, 1413478 bytes).
+/share/texlive/texmf-dist/fonts/type1/public/pl/plss9.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/pl/plssbx10.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/pl/plssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/pl/pltt10.pfb>
+Output written on document.pdf (17 pages, 1627037 bytes).
 PDF statistics:
- 626 PDF objects out of 1000 (max. 8388607)
- 573 compressed objects within 6 object streams
- 42 named destinations out of 1000 (max. 500000)
- 181 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 762 PDF objects out of 1000 (max. 8388607)
+ 701 compressed objects within 8 object streams
+ 50 named destinations out of 1000 (max. 500000)
+ 199 words of extra memory for PDF output out of 10000 (max. 10000000)
 
