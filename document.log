@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.30)  23 NOV 2020 17:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.10.30)  25 NOV 2020 14:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1329,7 +1329,7 @@ File: ot4cmtt.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 ] (./document.toc) [2
 
 ]
-<gwiazda.jpg, id=153, 469.755pt x 300.12125pt>
+<gwiazda.jpg, id=161, 469.755pt x 300.12125pt>
 File: gwiazda.jpg Graphic file (type jpg)
 <use gwiazda.jpg>
 Package pdftex.def Info: gwiazda.jpg  used on input line 39.
@@ -1342,7 +1342,7 @@ Overfull \hbox (32.76471pt too wide) in paragraph at lines 39--39
 [3
 
  <./gwiazda.jpg>]
-<baran-zdjecie.jpg, id=191, 353.82187pt x 353.82187pt>
+<baran-zdjecie.jpg, id=200, 353.82187pt x 353.82187pt>
 File: baran-zdjecie.jpg Graphic file (type jpg)
 <use baran-zdjecie.jpg>
 Package pdftex.def Info: baran-zdjecie.jpg  used on input line 49.
@@ -1350,7 +1350,7 @@ Package pdftex.def Info: baran-zdjecie.jpg  used on input line 49.
  [4
 
  <./baran-zdjecie.jpg>]
-<TCPIPDOC.jpg, id=227, 301.125pt x 301.125pt>
+<TCPIPDOC.jpg, id=237, 301.125pt x 301.125pt>
 File: TCPIPDOC.jpg Graphic file (type jpg)
 <use TCPIPDOC.jpg>
 Package pdftex.def Info: TCPIPDOC.jpg  used on input line 58.
@@ -1360,7 +1360,7 @@ Package pdftex.def Info: TCPIPDOC.jpg  used on input line 58.
  <./TCPIPDOC.jpg>] [6
 
 ]
-<Larry_Roberts.jpg, id=305, 380.42125pt x 481.8pt>
+<Larry_Roberts.jpg, id=317, 380.42125pt x 481.8pt>
 File: Larry_Roberts.jpg Graphic file (type jpg)
 <use Larry_Roberts.jpg>
 Package pdftex.def Info: Larry_Roberts.jpg  used on input line 73.
@@ -1370,7 +1370,7 @@ LaTeX Font Info:    Font shape `OT4/cmss/m/it' in size <10.95> not available
  [7
 
  <./Larry_Roberts.jpg>]
-<cerf.jpg, id=343, 260.975pt x 391.4625pt>
+<cerf.jpg, id=356, 260.975pt x 391.4625pt>
 File: cerf.jpg Graphic file (type jpg)
 <use cerf.jpg>
 Package pdftex.def Info: cerf.jpg  used on input line 83.
@@ -1380,7 +1380,7 @@ Package pdftex.def Info: cerf.jpg  used on input line 83.
  <./cerf.jpg>] [9
 
 ]
-<NASK.png, id=414, 356.33125pt x 142.5325pt>
+<NASK.png, id=429, 356.33125pt x 142.5325pt>
 File: NASK.png Graphic file (type png)
 <use NASK.png>
 Package pdftex.def Info: NASK.png  used on input line 97.
@@ -1432,7 +1432,7 @@ thkerncmss.
 [11
 
 ]
-<internet_2.png, id=486, 3276.24pt x 2457.18pt>
+<internet_2.png, id=503, 3276.24pt x 2457.18pt>
 File: internet_2.png Graphic file (type png)
 <use internet_2.png>
 Package pdftex.def Info: internet_2.png  used on input line 114.
@@ -1445,7 +1445,7 @@ Overfull \hbox (25.9685pt too wide) in paragraph at lines 114--114
 [12
 
  <./internet_2.png>]
-<noc.jpg, id=521, 1003.75pt x 668.4975pt>
+<noc.jpg, id=539, 1003.75pt x 668.4975pt>
 File: noc.jpg Graphic file (type jpg)
 <use noc.jpg>
 Package pdftex.def Info: noc.jpg  used on input line 123.
@@ -1458,11 +1458,11 @@ Overfull \hbox (25.9685pt too wide) in paragraph at lines 123--123
 [13
 
  <./noc.jpg>]
-<swiatlowod.jpg, id=557, 513.92pt x 342.27875pt>
-File: swiatlowod.jpg Graphic file (type jpg)
-<use swiatlowod.jpg>
-Package pdftex.def Info: swiatlowod.jpg  used on input line 132.
-(pdftex.def)             Requested size: 142.26378pt x 94.75105pt.
+<tor-browser_0_43_23_0.png, id=578, 562.1pt x 290.08376pt>
+File: tor-browser_0_43_23_0.png Graphic file (type png)
+<use tor-browser_0_43_23_0.png>
+Package pdftex.def Info: tor-browser_0_43_23_0.png  used on input line 132.
+(pdftex.def)             Requested size: 142.26378pt x 73.41487pt.
 
 Overfull \hbox (25.9685pt too wide) in paragraph at lines 132--132
 [][] 
@@ -1470,37 +1470,63 @@ Overfull \hbox (25.9685pt too wide) in paragraph at lines 132--132
 
 [14
 
- <./swiatlowod.jpg>]
-<od-1G-do-5G.jpg, id=596, 1242.14063pt x 790.45313pt>
-File: od-1G-do-5G.jpg Graphic file (type jpg)
-<use od-1G-do-5G.jpg>
-Package pdftex.def Info: od-1G-do-5G.jpg  used on input line 139.
-(pdftex.def)             Requested size: 284.52756pt x 181.06465pt.
+ <./tor-browser_0_43_23_0.png>]
+<ssl.jpg, id=617, 803.0pt x 422.57875pt>
+File: ssl.jpg Graphic file (type jpg)
+<use ssl.jpg>
+Package pdftex.def Info: ssl.jpg  used on input line 140.
+(pdftex.def)             Requested size: 142.26378pt x 74.86156pt.
 
-Overfull \hbox (255.45152pt too wide) in paragraph at lines 139--139
+Overfull \hbox (25.9685pt too wide) in paragraph at lines 140--140
 [][] 
  []
 
 [15
 
+ <./ssl.jpg>]
+<swiatlowod.jpg, id=653, 513.92pt x 342.27875pt>
+File: swiatlowod.jpg Graphic file (type jpg)
+<use swiatlowod.jpg>
+Package pdftex.def Info: swiatlowod.jpg  used on input line 149.
+(pdftex.def)             Requested size: 142.26378pt x 94.75105pt.
+
+Overfull \hbox (25.9685pt too wide) in paragraph at lines 149--149
+[][] 
+ []
+
+[16
+
+ <./swiatlowod.jpg>]
+<od-1G-do-5G.jpg, id=693, 1242.14063pt x 790.45313pt>
+File: od-1G-do-5G.jpg Graphic file (type jpg)
+<use od-1G-do-5G.jpg>
+Package pdftex.def Info: od-1G-do-5G.jpg  used on input line 156.
+(pdftex.def)             Requested size: 284.52756pt x 181.06465pt.
+
+Overfull \hbox (255.45152pt too wide) in paragraph at lines 156--156
+[][] 
+ []
+
+[17
+
  <./od-1G-do-5G.jpg>]
-<defining-zigbeee.png, id=633, 433.62pt x 289.08pt>
+<defining-zigbeee.png, id=731, 433.62pt x 289.08pt>
 File: defining-zigbeee.png Graphic file (type png)
 <use defining-zigbeee.png>
-Package pdftex.def Info: defining-zigbeee.png  used on input line 146.
+Package pdftex.def Info: defining-zigbeee.png  used on input line 163.
 (pdftex.def)             Requested size: 170.71652pt x 113.8126pt.
- [16
+ [18
 
  <./defining-zigbeee.png>]
-<iot.jpg, id=670, 863.225pt x 521.95pt>
+<iot.jpg, id=769, 863.225pt x 521.95pt>
 File: iot.jpg Graphic file (type jpg)
 <use iot.jpg>
-Package pdftex.def Info: iot.jpg  used on input line 152.
+Package pdftex.def Info: iot.jpg  used on input line 169.
 (pdftex.def)             Requested size: 170.71652pt x 103.21739pt.
- [17
+ [19
 
  <./iot.jpg>]
-[18
+[20
 
 ] (./document.bbl
 Overfull \hbox (199.87608pt too wide) in paragraph at lines 16--18
@@ -1509,10 +1535,10 @@ ran-[]przewidzial-[]nasza-[]rzeczywistosc ,[]
  []
 
 )
-Overfull \vbox (12.77115pt too high) detected at line 159
+Overfull \vbox (33.69618pt too high) detected at line 176
  []
 
-[19
+[21
 
  </usr/share/texlive/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>]
 \tf@nav=\write6
@@ -1524,20 +1550,20 @@ Overfull \vbox (12.77115pt too high) detected at line 159
 \tf@snm=\write8
 \openout8 = `document.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 160.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 160.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 177.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 177.
 
 (./document.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 160.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 160.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 177.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 177.
 Package rerunfilecheck Info: File `document.out' has not changed.
-(rerunfilecheck)             Checksum: 30D2E35495DFB5FCBF4CC68DB1423441;524.
+(rerunfilecheck)             Checksum: 543B392105AB6079CB16C3FF813CEC7D;603.
  ) 
 Here is how much of TeX's memory you used:
- 21460 strings out of 492982
- 415289 string characters out of 6134895
- 495162 words of memory out of 5000000
- 24444 multiletter control sequences out of 15000+600000
+ 21485 strings out of 492982
+ 415638 string characters out of 6134895
+ 495183 words of memory out of 5000000
+ 24461 multiletter control sequences out of 15000+600000
  14187 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,16n,64p,804b,637s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1549,10 +1575,10 @@ plss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/pl/plss8.pfb></usr
 exmf-dist/fonts/type1/public/pl/plssbx10.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/public/pl/plssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
 c/pl/pltt10.pfb>
-Output written on document.pdf (19 pages, 1894622 bytes).
+Output written on document.pdf (21 pages, 1967152 bytes).
 PDF statistics:
- 840 PDF objects out of 1000 (max. 8388607)
- 774 compressed objects within 8 object streams
- 55 named destinations out of 1000 (max. 500000)
- 209 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 943 PDF objects out of 1000 (max. 8388607)
+ 871 compressed objects within 9 object streams
+ 61 named destinations out of 1000 (max. 500000)
+ 227 words of extra memory for PDF output out of 10000 (max. 10000000)
 

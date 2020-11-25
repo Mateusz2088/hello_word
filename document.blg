@@ -14,58 +14,60 @@ I was expecting a `,' or a `}'---line 6 of file bibliografia.bib.bib
 I'm skipping whatever remains of this entry
 Warning--entry type for "SOISK.PL" isn't style-file defined
 --line 8 of file bibliografia.bib.bib
-Warning--entry type for "TCPIP" isn't style-file defined
+Warning--entry type for "tor" isn't style-file defined
 --line 11 of file bibliografia.bib.bib
+Warning--entry type for "TCPIP" isn't style-file defined
+--line 17 of file bibliografia.bib.bib
 Warning--entry type for "TVN" isn't style-file defined
---line 14 of file bibliografia.bib.bib
-Warning--entry type for "art:rekord_internetu" isn't style-file defined
 --line 20 of file bibliografia.bib.bib
-I was expecting a `,' or a `}'---line 22 of file bibliografia.bib.bib
+Warning--entry type for "art:rekord_internetu" isn't style-file defined
+--line 26 of file bibliografia.bib.bib
+I was expecting a `,' or a `}'---line 28 of file bibliografia.bib.bib
  :  
  :  ALTauthor = {Rafał Skrzypek}
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
 Warning--empty publisher in ojciec:internetu
 Warning--empty year in ojciec:internetu
-You've used 7 entries,
+You've used 8 entries,
             1791 wiz_defined-function locations,
-            463 strings with 4136 characters,
-and the built_in function-call counts, 679 in all, are:
-= -- 33
-> -- 10
+            465 strings with 4148 characters,
+and the built_in function-call counts, 768 in all, are:
+= -- 38
+> -- 11
 < -- 0
-+ -- 8
++ -- 9
 - -- 1
 * -- 10
-:= -- 59
-add.period$ -- 8
-call.type$ -- 7
-change.case$ -- 0
+:= -- 65
+add.period$ -- 9
+call.type$ -- 8
+change.case$ -- 1
 chr.to.int$ -- 0
-cite$ -- 9
-duplicate$ -- 40
-empty$ -- 128
+cite$ -- 10
+duplicate$ -- 45
+empty$ -- 146
 format.name$ -- 1
-if$ -- 171
+if$ -- 195
 int.to.chr$ -- 0
-int.to.str$ -- 7
+int.to.str$ -- 8
 missing$ -- 2
-newline$ -- 25
+newline$ -- 28
 num.names$ -- 1
-pop$ -- 63
+pop$ -- 69
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 38
+skip$ -- 46
 stack$ -- 0
 substring$ -- 0
-swap$ -- 7
+swap$ -- 8
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 2
 while$ -- 1
-width$ -- 8
-write$ -- 39
+width$ -- 9
+write$ -- 44
 (There were 2 error messages)
